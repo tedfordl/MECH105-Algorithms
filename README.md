@@ -1,2 +1,2 @@
 # MECH105-Algorithms
-Numerical algorithms from MECH105
+This repository contains the numerical algoritms made during the Fall 2021 semester of MECH 105.
